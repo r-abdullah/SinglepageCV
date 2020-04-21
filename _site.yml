@@ -1,0 +1,6 @@
+name: "singleCV" 
+author: "Rifah B. Abdullah" 
+output_dir: "docs" 
+output: 
+  html_document:
+    css: styles.css
