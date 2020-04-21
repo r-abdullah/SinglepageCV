@@ -1,0 +1,139 @@
+---
+title: CV
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<div class="parallax">
+</div>
+
+
+Final year student with a keen interest in data analysis and clinical psychology. Eager to enhance analysis skills further and work in medical data science. Previous experience in Child and Adolescent Mental Health (CAMHs) research team has encouraged interest in seeking opportunities related to this field.
+
+***
+
+### **Education**
+***
+
+**University of Glasgow – Psychology and Neuroscience BSc** – Expected 2:1 (2016 – 2020)
+
+*	4th Year – Modules such as: Human Development, Professional Skills, Statistical Models, Neuropsychological Deficits, Physiological Psychology, Individual Differences
+
+* 3rd Year (*Achieved 2:1*) – Topics such as: Neuroanatomy, Central nervous system disorders & treatment, Autonomic nervous system & vascular control, Homeostasis & neuroimmune system, Molecular methods, Development, Experimental techniques, Animal models
+
+Key reports: 
+
+* ‘Assessing the effects of antioxidant drug – ANOXOL – on spontaneous hypertensive stroke-prone rats in model of ischaemic stroke’ (*Achieved 1st*) – a research proposal on conducting hypothetical drug testing experiments on rats. The proposal discussed the necessary ethics, detailed methodology required and outlined the statistical analysis that would be undertaken.
+
+*	‘The effects of Prenatal Influenza infection on Central Nervous System development’ (*Achieved 1st*) – a detailed long essay evaluating the literature as it explained the effects of viral infection (influenza) on the prenatal brain development.
+
+Dissertation:
+
+* ‘Investigating cross-cultural differences in deception-detection’ – an on-going project aiming to assess the current level of deception detection across 2 or more cultural backgrounds. Exploratory analysis was conducted post-hoc to investigate predictors and key influences.
+
+<br>
+
+### **Science and Technology Work Experience**
+***
+
+**University of Glasgow – Mental Health and Wellbeing department** (June 2018 – Present)
+
+* Analysed data from ongoing BeST trials as part of funded research studentship, investigating whether age of entry into care affects the quality of parent-child dyad assessed using standardized observational tools. Findings summarised into research report and submitted to Head of College Scholar’s scheme board.
+
+* Trained in and using the Parent-Infant Relationship Global Assessment Scale (PIR-GAS).
+
+*	Continue to assist rating in the trial and collaborate with other raters to ensure inter-rater reliability.
+
+*	Liaised with London office to ensure standardisation in ratings across location.
+
+*	Intention to publish a paper with further cross-sectional analysis conducted on the data.
+
+**Technology Department at RAL, Didcot** 	(July 2015)
+
+* Designed mechanical components on CADCAM software for open day exhibition.
+
+**Teaching Assistant to Year 7 Maths Class** (2014 - 2015)
+
+* Required excellent communication skills as complex mathematical concepts had to be explained to struggling students.
+
+**Outreach office at the University of Oxford’s Physics Department** (June 2013)
+
+* Created interactive outreach resources to encourage interest in physics for children.
+
+<br>
+
+### **Other Work Experience**
+***
+
+**Bar staff for HAP recruitment** (May 2019 - present)
+
+* Required resilience, precise money handling and effective communication skills over long shifts. Essential to be vigilant for underage purchases and inappropriate behaviour.
+
+**University of Glasgow Telephone Campaign** (Jan – March 2018)
+
+* Raised vital funds to support student scholarships, research, facilities, and equipment for the University as well as establish meaningful relationships with alumni and friends.
+
+**Sales advisor at Stevensons, Oxford** (May - Sept 2017)
+
+* Assisted customers with school uniform purchasing. This fast-paced environment required quick learning, effective staff coordination and precise till skills. 
+
+**Volunteer at Oxfam Summertown Shop, Oxford** (2012 - 2016)
+
+* Responsibilities included operating the till, ordering stock and evaluating donations appropriate for selling.
+
+<br>
+
+### **Achievements and Publications**
+***
+
+* Contributed to an online manual that will be published on GitHub next year using the bookdown package on R (2019).
+
+* Pre-registered my dissertation on the Open Science Framework (2019).
+
+*	Awarded Head of College Scholar Scheme Vacation Studentship (2018).
+
+*	Part of Head of College Scholar Scheme – only the top 10% of students in the College of MVLS are chosen (2017).
+
+*	Awarded L1B Psychology Certificate of Academic Excellence (2016).
+
+*	Awarded Silver CREST Science Award (2014).
+
+<br>
+
+### **Skills and Interests** 
+***
+
+**IT skills**
+
+*	Proficient in Microsoft Office Suite 
+
+* Confident at R  
+
+*	Capable at SPSS - keen to learn other software such as Matlab and STATA 
+
+*	Beginners JavaScript and HTML
+
+* Some experience with CADCAM 
+
+**Other skills**
+
+* Trained PIRGAS rater
+
+* Training in laboratory skills such as PCR, Enzyme Digestion and Restriction mapping
+
+**Languages**
+
+* Native Bengali
+
+* Fluent English
+
+*	GCSE German
+
+**Clubs and Societies**
+
+*	Member of the University’s Psychology Society – often attend additional lectures and seminars to expand my knowledge beyond my course and independent reading.
+
+*	Member of University’s Badminton Club – play twice a week and have played games for local league tournaments.
