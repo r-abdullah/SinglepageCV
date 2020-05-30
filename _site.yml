@@ -3,4 +3,11 @@ author: "Rifah B. Abdullah"
 output_dir: "docs" 
 output: 
   html_document:
+    self_contained: false
+    toc: true
+    toc_depth: 3
+    toc_float: true
     css: styles.css
+    includes:
+      in_header: header.html
+    

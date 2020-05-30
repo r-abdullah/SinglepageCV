@@ -1,20 +1,21 @@
-.parallax {
-    background-image: url("to the new year (2).png");
-    height: 250px;
-    background-size: 1000px;
-    background-attachment: fixed;
-    background-repeat: no-repeat;
-    background-position: center top;
-}
-
-body, html {
-  height: 100%;
-}
-
 p {
   text-align: justify;
 }
 
 h3 {
   color: #357876;
+}
+
+#TOC {
+  margin: 2em 0 0.5em 0;
+  bottom: 0.5em;
+  text-align: left;
+}
+
+#TOC a:hover{
+  background-color: #357876; 
+}
+
+.main-container {
+    margin-left: 200px;
 }

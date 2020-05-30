@@ -7,20 +7,17 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-<div class="parallax">
-</div>
-
-
-Final year student with a keen interest in data analysis and clinical psychology. Eager to enhance analysis skills further and work in medical data science. Previous experience in Child and Adolescent Mental Health (CAMHs) research team has encouraged interest in seeking opportunities related to this field.
-
+### **About Me**
 ***
-
+Final year student with a keen interest in data analysis and clinical psychology. Eager to enhance analysis skills further and work in medical data science. Previous experience in Child and Adolescent Mental Health (CAMHs) research team has encouraged interest in seeking opportunities related to this field.
+ 
+ 
 ### **Education**
 ***
 
 **University of Glasgow – Psychology and Neuroscience BSc** – Expected 2:1 (2016 – 2020)
 
-*	4th Year – Modules such as: Human Development, Professional Skills, Statistical Models, Neuropsychological Deficits, Physiological Psychology, Individual Differences
+* 4th Year – Modules such as: Human Development, Professional Skills, Statistical Models, Neuropsychological Deficits, Physiological Psychology, Individual Differences
 
 * 3rd Year (*Achieved 2:1*) – Topics such as: Neuroanatomy, Central nervous system disorders & treatment, Autonomic nervous system & vascular control, Homeostasis & neuroimmune system, Molecular methods, Development, Experimental techniques, Animal models
 
@@ -28,14 +25,13 @@ Key reports:
 
 * ‘Assessing the effects of antioxidant drug – ANOXOL – on spontaneous hypertensive stroke-prone rats in model of ischaemic stroke’ (*Achieved 1st*) – a research proposal on conducting hypothetical drug testing experiments on rats. The proposal discussed the necessary ethics, detailed methodology required and outlined the statistical analysis that would be undertaken.
 
-*	‘The effects of Prenatal Influenza infection on Central Nervous System development’ (*Achieved 1st*) – a detailed long essay evaluating the literature as it explained the effects of viral infection (influenza) on the prenatal brain development.
+* ‘The effects of Prenatal Influenza infection on Central Nervous System development’ (*Achieved 1st*) – a detailed long essay evaluating the literature as it explained the effects of viral infection (influenza) on the prenatal brain development.
 
 Dissertation:
 
-* ‘Investigating cross-cultural differences in deception-detection’ – an on-going project aiming to assess the current level of deception detection across 2 or more cultural backgrounds. Exploratory analysis was conducted post-hoc to investigate predictors and key influences.
-
-<br>
-
+* ‘Investigating cross-cultural differences in deception-detection’ (*Achieved 1st*) – an on-going project aiming to assess the current level of deception detection across 2 or more cultural backgrounds. Exploratory analysis was conducted post-hoc to investigate predictors and key influences.
+ 
+ 
 ### **Science and Technology Work Experience**
 ***
 
@@ -45,11 +41,11 @@ Dissertation:
 
 * Trained in and using the Parent-Infant Relationship Global Assessment Scale (PIR-GAS).
 
-*	Continue to assist rating in the trial and collaborate with other raters to ensure inter-rater reliability.
+* Continue to assist rating in the trial and collaborate with other raters to ensure inter-rater reliability.
 
-*	Liaised with London office to ensure standardisation in ratings across location.
+* Liaised with London office to ensure standardisation in ratings across location.
 
-*	Intention to publish a paper with further cross-sectional analysis conducted on the data.
+* Intention to publish a paper with further cross-sectional analysis conducted on the data.
 
 **Technology Department at RAL, Didcot** 	(July 2015)
 
@@ -63,7 +59,6 @@ Dissertation:
 
 * Created interactive outreach resources to encourage interest in physics for children.
 
-<br>
 
 ### **Other Work Experience**
 ***
@@ -84,7 +79,6 @@ Dissertation:
 
 * Responsibilities included operating the till, ordering stock and evaluating donations appropriate for selling.
 
-<br>
 
 ### **Achievements and Publications**
 ***
@@ -93,28 +87,27 @@ Dissertation:
 
 * Pre-registered my dissertation on the Open Science Framework (2019).
 
-*	Awarded Head of College Scholar Scheme Vacation Studentship (2018).
+* Awarded Head of College Scholar Scheme Vacation Studentship (2018).
 
-*	Part of Head of College Scholar Scheme – only the top 10% of students in the College of MVLS are chosen (2017).
+* Part of Head of College Scholar Scheme – only the top 10% of students in the College of MVLS are chosen (2017).
 
-*	Awarded L1B Psychology Certificate of Academic Excellence (2016).
+* Awarded L1B Psychology Certificate of Academic Excellence (2016).
 
-*	Awarded Silver CREST Science Award (2014).
-
-<br>
-
+* Awarded Silver CREST Science Award (2014).
+ 
+ 
 ### **Skills and Interests** 
 ***
 
 **IT skills**
 
-*	Proficient in Microsoft Office Suite 
+* Proficient in Microsoft Office Suite 
 
 * Confident at R  
 
-*	Capable at SPSS - keen to learn other software such as Matlab and STATA 
+* Capable at SPSS - keen to learn other software such as Matlab and STATA 
 
-*	Beginners JavaScript and HTML
+* Beginners JavaScript and HTML
 
 * Some experience with CADCAM 
 
@@ -130,10 +123,10 @@ Dissertation:
 
 * Fluent English
 
-*	GCSE German
+* GCSE German
 
 **Clubs and Societies**
 
-*	Member of the University’s Psychology Society – often attend additional lectures and seminars to expand my knowledge beyond my course and independent reading.
+* Member of the University’s Psychology Society – often attend additional lectures and seminars to expand my knowledge beyond my course and independent reading.
 
-*	Member of University’s Badminton Club – play twice a week and have played games for local league tournaments.
+* Member of University’s Badminton Club – play twice a week and have played games for local league tournaments.
