@@ -11,7 +11,9 @@ knitr::opts_chunk$set(echo = TRUE)
 ***
 Final year student with a keen interest in data analysis and clinical psychology. Eager to enhance analysis skills further and work in medical data science. Previous experience in Child and Adolescent Mental Health (CAMHs) research team has encouraged interest in seeking opportunities related to this field.
  
- 
+<br> 
+</br>
+
 ### **Education**
 ***
 
@@ -31,7 +33,9 @@ Dissertation:
 
 * ‘Investigating cross-cultural differences in deception-detection’ (*Achieved 1st*) – an on-going project aiming to assess the current level of deception detection across 2 or more cultural backgrounds. Exploratory analysis was conducted post-hoc to investigate predictors and key influences.
  
- 
+<br>
+</br>
+
 ### **Science and Technology Work Experience**
 ***
 
@@ -59,6 +63,8 @@ Dissertation:
 
 * Created interactive outreach resources to encourage interest in physics for children.
 
+<br>
+</br>
 
 ### **Other Work Experience**
 ***
@@ -79,6 +85,8 @@ Dissertation:
 
 * Responsibilities included operating the till, ordering stock and evaluating donations appropriate for selling.
 
+<br>
+</br>
 
 ### **Achievements and Publications**
 ***
@@ -95,7 +103,9 @@ Dissertation:
 
 * Awarded Silver CREST Science Award (2014).
  
- 
+<br>
+</br>
+
 ### **Skills and Interests** 
 ***
 
