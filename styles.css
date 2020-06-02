@@ -8,14 +8,7 @@ h3 {
 
 #TOC {
   margin: 2em 0 0.5em 0;
-  bottom: 0.5em;
+  bottom: 0.1em;
   text-align: left;
-}
-
-#TOC a:hover{
-  background-color: #357876; 
-}
-
-.main-container {
-    margin-left: 200px;
+  width: 100%;
 }
