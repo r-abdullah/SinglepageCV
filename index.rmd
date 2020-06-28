@@ -14,7 +14,9 @@ knitr::opts_chunk$set(echo = TRUE)
 <div class ="row">
 
 <div class = "col-md-11">
-Final year student with a keen interest in data analysis and clinical psychology. Eager to enhance analysis skills further and work in medical data science. Previous experience in Child and Adolescent Mental Health (CAMHs) research team has encouraged interest in seeking opportunities related to this field.
+Psychology and Neuroscience (BSc) graduate with a keen interest in data analysis and clinical psychology. Eager to enhance analysis skills further and work in medical data science. Previous experience in Child and Adolescent Mental Health (CAMHs) research team has encouraged interest in seeking opportunities related to this field.
+
+For a multi-page layout of my credentials please click [here](https://r-abdullah.github.io/CV/)
 </div>
 
 [LinkedIn]("https://www.linkedin.com/in/rifah-abdullah-60b239151/")
@@ -31,9 +33,9 @@ Final year student with a keen interest in data analysis and clinical psychology
 ### **Education**
 ***
 
-**University of Glasgow – Psychology and Neuroscience BSc** – Expected 2:1 (2016 – 2020)
+**University of Glasgow – Psychology and Neuroscience BSc** – Achieved 2:1 (2016 – 2020)
 
-* 4th Year – Modules such as: Human Development, Professional Skills, Statistical Models, Neuropsychological Deficits, Physiological Psychology, Individual Differences
+* 4th Year (*Achieved 2:1*) – Modules such as: Human Development, Professional Skills, Statistical Models, Neuropsychological Deficits, Physiological Psychology, Individual Differences
 
 * 3rd Year (*Achieved 2:1*) – Topics such as: Neuroanatomy, Central nervous system disorders & treatment, Autonomic nervous system & vascular control, Homeostasis & neuroimmune system, Molecular methods, Development, Experimental techniques, Animal models
 
